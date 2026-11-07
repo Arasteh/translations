@@ -3403,7 +3403,7 @@
     "common_duels_won_lost": {
       "comment": "Header of a graphic showing how many duels (header + tackles) the player has won or lost",
       "english": "Duels won / lost",
-      "value": "بردها / باخت‌های رو در رو"
+      "value": "دوئل‌های برده / باخته"
     },
     "common_ecuador": {
       "english": "Ecuador",
@@ -7133,7 +7133,7 @@
     "new_h2h": {
       "comment": "This is a header for team vs team stats",
       "english": "Head-to-Head",
-      "value": "بازی رو در رو"
+      "value": "رویارویی‌ها"
     },
     "new_height": {
       "comment": "height of player, all uppercase!",
@@ -7940,7 +7940,7 @@
     "notifications_duel_lost": {
       "comment": "Duel over the possession of the ball where a player looses the ball",
       "english": "Duels lost",
-      "value": "باخت رو در رو"
+      "value": "دوئل‌های باخته"
     },
     "notifications_duel_won": {
       "comment": "Duel over the possession of the ball where a player wins the ball",
